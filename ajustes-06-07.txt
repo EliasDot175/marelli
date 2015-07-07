@@ -1,0 +1,3 @@
+botones cerrar eliminé etigueta img, puse icono como background
+titulos columnas tablas cambié <p> por <h4>
+img perfil , background cover
