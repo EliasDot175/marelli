@@ -64,9 +64,12 @@
 
 			<!--item-lista-->
 			<ul class="item-lista">
+
+				<!--BUSQUEDA agregar clase 'busqueda' al elemento li-->
 				<li class="columna-productos columna-codigo">
 					<span class="text-uppercase"><p>5423589</p></span>
 				</li>
+
 				<li class="columna-productos columna-categoria">
 					<span class="text-uppercase"><p>Bombas depresoras</p></span>
 				</li>

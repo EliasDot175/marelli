@@ -39,19 +39,23 @@
 						<img src="assets/images/magneti-marelli-logo.png">
 					</div>
 					<form role="form" class="form">
+						
+
 					  	<div class="form-group">
-					    	<label>Usuario</label>
+					    	<label>USUARIO</label>
 					    	<input type="email" class="form-control" id="nombre" >
 					  	</div>
 					  	<div class="form-group">
-					    	<label>Contraseña</label>
+					    	<label>CONTRASEÑA</label>
 					   		<input type="password" class="form-control" id="email" >
 					 	</div>
-					 	<button type="submit" class="btn enviar">Enviar</button>
+					 	<button type="submit" class="btn enviar btn-primary">Ingresar</button>
 					</form>
 
 				</div>
-
+				<div class="error-login" style="display:none">
+					<p class="text-uppercase">usuario o contraseña inválidos</p>
+				</div>
 		</div>
 		<!-- // CONTENEDOR GENERAL*********************************************-->
 

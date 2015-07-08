@@ -87,14 +87,23 @@
 		<div class="contenedor col-xs-12 col-sm-12 col-md-12 ol-lg-12">
 
 			<div class="buscar">
-				<input type="text" name="buscar">
-				<span class="glyphicon glyphicon-search"></span>
+				<div class="input"> 
+					<input type="text" name="buscar">
+					<span class="glyphicon glyphicon-search"></span>
+				</div>
+				<div class="resultado" style="display:none">
+					<p>Resultado 1</p>
+					<p>Resultado 2</p>
+					<p>Resultado 3</p>
+				</div>
 			</div>
 
 			<div class="titulo">
 				<h1 class="text-uppercase">Pedidos</h1>
 				<h3 class="text-uppercase">SELECCIONE O CARGUE ARTÍCULOS PARA AGREGAR AL PEDIDO</h3>
 			</div>
+
+			<p id="mover-sidebar" posicion="left">mover sidebar</p>
 
 			<div class="bloque-general">
 
@@ -212,5 +221,6 @@
 		<script src="assets/bootstrap-3.3.4/js/bootstrap.min.js"></script>
 		<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
 		<script src="assets/js/eventos.js"></script>
+
 	</body>
 </html>
