@@ -23,64 +23,61 @@
 
 		<!-- CSS -->
 		<link href="assets/css/estilos.css?v=04" rel="stylesheet" media="screen">
-
 	</head>
 
 
 	<body>
 
-		<!-- menu-->
-			<nav class="menu navbar col-xs-12 col-sm-12 col-md-12 ol-lg-12">
-				<!-- contenedor -->
-				<div class="contenedor">
-					<!-- boton menu mobile -->
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-					</div>
-					<!--// boton menu mobile -->
+		<!-- MENU************************************************************************-->
+		<nav class="menu navbar col-xs-12 col-sm-12 col-md-12 ol-lg-12">
+			<div class="contenedor">
 
-					<div class="logo">
-						<a href="index.php">
-							<img src="assets/images/magneti-marelli-logo.png">
-						</a>
-					</div>
-
-					<!-- Contenido menu-->
-					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-						<ul class="nav navbar-nav">
-							<li class="text-uppercase">
-								<a href="listado-productos.php">
-									pedidos
-								</a>
-							</li>
-							<li class="naranja text-uppercase">
-								<a href="historial.php">
-									historial
-								</a>
-							</li>
-							<li class="marron text-uppercase dropdown">
-								<a href="#" class="dropdown-toggle" data-toggle="dropdown">
-									garantias
-								</a>
-							</li>
-							<li class="rosa text-uppercase">
-								<a href="login.php">
-									usuario
-								</a>
-							</li>
-						</ul>
-					</div>
-					<!-- //Contenido menu-->
-
+				<!-- boton menu mobile -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
 				</div>
-				<!-- contenedor -->
-			</nav>
-		</div>
+				<!--// boton menu mobile -->
+
+				<div class="logo">
+					<a href="index.php">
+						<img src="assets/images/magneti-marelli-logo.png">
+					</a>
+				</div>
+
+				<!-- Contenido menu-->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav">
+						<li class="text-uppercase">
+							<a href="listado-productos.php">
+								pedidos
+							</a>
+						</li>
+						<li class="naranja text-uppercase">
+							<a href="historial.php">
+								historial
+							</a>
+						</li>
+						<li class="marron text-uppercase dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+								garantias
+							</a>
+						</li>
+						<li class="rosa text-uppercase">
+							<a href="login.php">
+								usuario
+							</a>
+						</li>
+					</ul>
+				</div>
+				<!-- //Contenido menu-->
+
+			</div>
+		</nav>
 		<!-- //MENU************************************************************************-->
 
 
@@ -88,12 +85,11 @@
 
 		<!-- CONTENEDOR GENERAL***********************************************************-->
 		<div class="contenedor col-xs-12 col-sm-12 col-md-12 ol-lg-12">
-			<!-- buscar -->
+
 			<div class="buscar">
 				<input type="text" name="buscar">
 				<span class="glyphicon glyphicon-search"></span>
 			</div>
-			<!-- buscar -->
 
 			<div class="titulo">
 				<h1 class="text-uppercase">Pedidos</h1>
@@ -101,9 +97,12 @@
 			</div>
 
 			<div class="bloque-general">
+
 				<!--CONTENIDO************-->
 				<div class="contenido col-xs-12 col-sm-9 col-md-9 ol-lg-9">
+
 					<?php startblock('contenido') ?> <?php endblock() ?> 
+
 				</div>
 				<!-- // CONTENIDO********-->
 
@@ -125,10 +124,13 @@
 							<h3 class='text-uppercase carrito-sidebar-text'>ARTICULOS AGREGADOS</h3>
 						</div>
 
-						<!-- item-carrito -->
+						<!-- item-categoria -->
 						<div class="subtitulo carrito-sidebar-subtitulo">
 							<h4 class='text-uppercase'>bombas depresoras</h4>
 						</div>
+						<!-- //item-categoria -->
+
+						<!-- item-carrito -->
 						<div class="item-carrito">
 							<div class="head-item-carrito">
 								<p class="codigo-item-carrito"class='text-uppercase '>5623339898</p>
@@ -145,13 +147,15 @@
 								</div>
 							</div>
 						</div>
-						<!-- item-carrito -->
+						<!-- //item-carrito -->
 
-						<!-- item-carrito -->
+						<!-- item-categoria -->
 						<div class="subtitulo carrito-sidebar-subtitulo">
 							<h4 class='text-uppercase'>bombas depresoras</h4>
 						</div>
+						<!-- //item-categoria -->
 
+						<!-- item-carrito -->
 						<div class="item-carrito">
 							<div class="head-item-carrito">
 								<p class="codigo-item-carrito"class='text-uppercase '>5623339898</p>
@@ -168,7 +172,9 @@
 								</div>
 							</div>
 						</div>
+						<!-- //item-carrito -->
 
+						<!-- item-carrito -->
 						<div class="item-carrito">
 							<div class="head-item-carrito">
 								<p class="codigo-item-carrito"class='text-uppercase '>5623339898</p>
@@ -185,19 +191,19 @@
 								</div>
 							</div>
 						</div>
-						<!-- item-carrito -->
+						<!-- //item-carrito -->
+
 						<a href="articulos-agregados.php">	
 							<button type="button" class="btn boton-continuar">CONTINUAR</button>
 						</a>
+
 					</div>
 					<!-- //carrito sidebar -->
 
-
 				</div>
-				<!-- SIDEBAR ************-->
+				<!-- //SIDEBAR ************-->
 
 			</div>
-
 		</div>
 		<!-- // CONTENEDOR GENERAL*********************************************-->
 

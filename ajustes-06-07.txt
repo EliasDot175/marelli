@@ -1,4 +1,0 @@
-﻿-botones cerrar eliminé etigueta img, puse icono como background
--titulos columnas tablas cambié <p> por <h4>
--agregué un div para centrar verticalmente las categorias
--img perfil , background cover
