@@ -2,8 +2,15 @@ $(document).ready(function(){
 
 	//mostrar categoria
 	$(document).on("click", "#mostrar-categorias", function(){
-		$('#categorias').fadeIn('slow');
+		$('#categorias').fadeIn();
 		$('.sub-menu').css('display','none');
+    });
+
+
+    //ocultar categoria
+	$(document).on("click", "#ocultar-categorias", function(){
+		$('.sub-menu').fadeIn();
+		$('#categorias').css('display','none');
     });
 
 
@@ -17,14 +24,14 @@ $(document).ready(function(){
 
 	//hover categorias
 	$(".lnk-cat-prod").hover(function(){
-        $(this).addClass('activo', 500);
+        $(this).addClass('activo', 200);
         }, function(){
-        $(this).removeClass('activo', 500);
+        $(this).removeClass('activo', 200);
     });
 
 
     //botón ok listado productos (agrega al carrito)
-    $( ".cantidad" ).change(function() {
+    /*$( ".cantidad" ).change(function() {
 		idOk = $(this).attr('id');
 		if($(this).val()){
 			$("."+idOk).removeClass('ok-inactivo', 500);
@@ -33,7 +40,7 @@ $(document).ready(function(){
 			$("."+idOk).addClass('ok-inactivo', 500);
 			$("."+idOk).removeClass('ok-activo', 500);
 		}
-	});
+	});*/
 
 
 	//galeriaCategorias
@@ -47,7 +54,7 @@ $(document).ready(function(){
 		currentGalCategorias = currentGalCategorias - 1;
         GaleriaCategorias(currentGalCategorias);
     });
-    w
+    
 });
 
 
@@ -71,11 +78,15 @@ $(document).ready(function(){
 	for(i=1 ; i <= totalItems ; i++){
 
 		if(i == current) {
-			//$('.GalCategorias-'+ i).fadeIn('slow');
-			$('.currentCategoria-'+ i).slideDown();
+			$('.currentCategoria-'+ i).fadeIn('fast');
+			//$('.currentCategoria-'+ i).slideDown();
+			//$('.currentCategoria-'+ i).slideToggle();
+			//'.currentCategoria-'+ i).css('display','block');
 		}else{
-			//$('.GalCategorias-'+ i).fadeOut('slow');
-			$('.currentCategoria-'+ i).slideUp();
+			//'.currentCategoria-'+ i).fadeOut();
+			//$('.currentCategoria-'+ i).slideUp();
+			//$('.currentCategoria-'+ i).slideToggle();
+			$('.currentCategoria-'+ i).css('display','none');
 		}
 
 	}

@@ -210,144 +210,180 @@
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>LISTA 2</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>LISTA 2</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod  col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
@@ -360,72 +396,140 @@
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>LISTA 3</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>LISTA 3</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-2.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
 			<!--item-->
 			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
 				<img src="assets/images/magneti-marelli-item-1.png">
-				<p class='text-uppercase'>Amortiguadores</p>
-				<p class='text-uppercase'>cofap</p>
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
+			</div>
+			<!--//item-->
+
+			<!--item-->
+			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
+				<img src="assets/images/magneti-marelli-item-2.png">
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
+			</div>
+			<!--//item-->
+
+			<!--item-->
+			<div class="item lnk-cat-prod  col-xs-12 col-sm-4 col-md-4 ol-lg-4">
+				<img src="assets/images/magneti-marelli-item-1.png">
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
+			</div>
+			<!--//item-->
+
+			<!--item-->
+			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
+				<img src="assets/images/magneti-marelli-item-2.png">
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
+			</div>
+			<!--//item-->
+
+			<!--item-->
+			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
+				<img src="assets/images/magneti-marelli-item-1.png">
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
+			</div>
+			<!--//item-->
+
+			<!--item-->
+			<div class="item lnk-cat-prod col-xs-12 col-sm-4 col-md-4 ol-lg-4">
+				<img src="assets/images/magneti-marelli-item-2.png">
+				<div class="info-categorias">
+					<p class='text-uppercase'>Amortiguadores</p>
+					<p class='text-uppercase'>cofap</p>
+				</div>
 			</div>
 			<!--//item-->
 
